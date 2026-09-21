@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- LEDGEIFY Primary 'L' Shape in White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,26h16v40h32v16h-48V26Z" />
+    <!-- LEDGEIFY Brand Top-Right Ledger Block in Sky/Cyan Accent -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M54,26h24v16h-24V26Z" />
+</vector>
+

@@ -1,0 +1,6 @@
+{
+  "name": "LEDGEIFY",
+  "description": "Smart digital cash book to track cash in, cash out, net balance and manage ledger entries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
